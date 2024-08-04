@@ -1,2 +1,2 @@
-`Your ideas;`\
-`Let make IT happen;`
+`Your ideas;` `My ideas;`\
+`Let's make IT happen;`
